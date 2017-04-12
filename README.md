@@ -12,7 +12,7 @@ Netty, NioServerSocketChannel, Http, FileIO
 Compile: <br />
 *mvn clean compile*
 
-Run Server and Clent: <br />
+Run Server and Client: <br />
 *mvn exec:java -Dexec.mainClass="io.netty.example.http.file.HttpStaticFileServer"*
 
 Access Application with Browser: <br />
